@@ -12,4 +12,3 @@
     bal run
     ```
     afafafafafaf
-  asasaasa
